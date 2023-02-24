@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset = "UTF-8">
+   <title> eunay_1 </title>
+</head>
+
+
+<body>
+   <style>
+      body{
+         margin:0px;
+      }
+      h1 {
+            text-align: center;
+            padding: 60px;
+            border-bottom: 4px solid;
+            font-weight: bold;
+            color: black;
+      }
+   </style>
+</body>
+
+</html>
